@@ -35,20 +35,6 @@ The goal of this challenge is to strengthen my JavaScript fundamentals, improve 
 
 -Each project contains its own README, source code, and screenshots.
 
-## Repository Structure 
-30-days-30-projects-js/
-│
-├── Day-01-Weather-App/
-│   ├── index.html
-│   ├── style.css
-│   ├── images/
-│   └── README.md
-│
-├── Day-02-Project-Name/
-│   └── ...
-│
-└── README.md
-
 ## How to Run Projects
     -Clone the repository:
     git clone https://github.com/your-username/30-days-30-projects-js.git
