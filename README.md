@@ -26,7 +26,7 @@ The goal of this challenge is to strengthen my JavaScript fundamentals, improve 
 | Day | Project Name  | Live Demo | Source Code           |
 | --- | ------------- | --------- | --------------------- |
 | 01  | Weather App   | 🔗        | 📁 Day-01-Weather-App |
-| 02  | Coming Soon   | ⏳         | ⏳                     |
+| 02  | QR Code Generator   | 🔗  | 📁 Day-02-QR-Code-Generator |
 | 03  | Coming Soon   | ⏳         | ⏳                     |
 | 04  | Coming Soon   | ⏳         | ⏳                     |
 | 05  | Coming Soon   | ⏳         | ⏳                     |
