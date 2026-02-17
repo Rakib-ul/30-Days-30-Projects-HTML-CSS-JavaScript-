@@ -27,7 +27,7 @@ The goal of this challenge is to strengthen my JavaScript fundamentals, improve 
 | --- | ------------- | --------- | --------------------- |
 | 01  | Weather App   | 🔗        | 📁 Project_01_Weather_AP |
 | 02  | QR Code Generator   | 🔗  | 📁 Project_02_QR_Code_Generator |
-| 03  | Coming Soon   | ⏳         | ⏳                     |
+| 03  | Music App Player   | 🔗   |   📁 Project_03_Music_App_Player |
 | 04  | Coming Soon   | ⏳         | ⏳                     |
 | 05  | Coming Soon   | ⏳         | ⏳                     |
 | ... | ...           | ...       | ...                   |

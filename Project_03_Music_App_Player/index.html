@@ -24,7 +24,7 @@
             <h1>In the End</h1>
             <p>Linkin Park</p>
 
-            <audio controls>
+            <audio  id="song">
                 <source src="audio/in_the_end.mp3" type="audio/mpeg">
 
             </audio>
@@ -33,8 +33,8 @@
                 <div>
                     <i class="fa-solid fa-backward"></i>
                 </div>
-                <div>
-                    <i class="fa-solid fa-play"></i>
+                <div onclick="playPause()">
+                    <i class="fa-solid fa-play" id="ctrlIcon"></i>
                 </div>
                 <div>
                     <i class="fa-solid fa-forward"></i>
@@ -42,5 +42,7 @@
             </div>
         </div>
     </div>
+
+    <script src="script.js"></script>
 </body>
 </html>
