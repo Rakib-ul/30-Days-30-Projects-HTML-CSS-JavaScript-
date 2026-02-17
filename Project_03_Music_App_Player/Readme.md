@@ -79,6 +79,6 @@ This project is part of my:
 ---
 
 ## 👨‍💻 Author
-
-MD Rakibul Islam
-Full Stack Developer | CSE Graduate
+**MD Rakibul Islam**  
+Full Stack Developer | CSE Graduate  
+🔗 GitHub: https://github.com/Rakib-ul
